@@ -17,7 +17,7 @@
     <a href="mailto:tony.devopsuk@gmail.com" target="blank">
       <img alt="gmail logo" height="50" width="50" src="assets/gmail.png" />
     </a>
-  📝 [Resume]([https://drive.google.com/file/d/1PGgUgzhUjZjRBYNxlWrKf2LgHQR4s5aJ/view?usp=sharing])
+  📝 [Resume](https://drive.google.com/file/d/1PGgUgzhUjZjRBYNxlWrKf2LgHQR4s5aJ/view?usp=sharing)
    
   </div>
 
