@@ -20,6 +20,10 @@
   </div>
 
   <br/>
+  <h2 align="center">My Stats</h2>
+<div align="center" >
+  
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tony-devops&theme=react&hide=stars,issues)
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=tony-devops&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages">
 
   <img src="https://streak-stats.demolab.com/?user=tony-devops&theme=highcontrast" alt="GitHub Streak">
