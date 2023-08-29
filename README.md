@@ -11,10 +11,10 @@
 <br>
  <div>
     <h2>Contact Me</h2>
-    <a href="https://www.linkedin.com/in/tony-a-630605251/">
+    <a href="https://www.linkedin.com/in/tony-a-630605251/" target="_blank">
       <img alt="linkedin logo" height="50" width="50" src="./assets/linkedin.png"/>
     </a>
-    <a href="mailto:tony.devopsuk@gmail.com">
+    <a href="mailto:tony.devopsuk@gmail.com" target="_blank">
       <img alt="gmail logo" height="50" width="50" src="assets/gmail.png" />
     </a>
   </div>
