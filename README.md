@@ -8,3 +8,19 @@
     <h2>My Skills</h2>
     <img src="https://skillicons.dev/icons?i=react,express,sequelize,postgres,nodejs,postman,js,tailwind,materialui,git,html,css,python" alt="My Skills" />
   </div>
+<br>
+ <div>
+    <h2>Contact Me</h2>
+    <a href="https://www.linkedin.com/in/tony-a-630605251/">
+      <img alt="linkedin logo" height="50" width="50" src="./assets/linkedin.png"/>
+    </a>
+    <a href="mailto:tony.devopsuk@gmail.com">
+      <img alt="gmail logo" height="50" width="50" src="assets/gmail.png" />
+    </a>
+  </div>
+
+  <br/>
+  <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=tony-devops&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages">
+
+  <img src="https://streak-stats.demolab.com/?user=tony-devops&theme=highcontrast" alt="GitHub Streak">
+</div>
